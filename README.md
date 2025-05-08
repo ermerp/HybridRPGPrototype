@@ -8,7 +8,23 @@ HybridRPGPrototype is a 2.5D pixel art RPG prototype developed in Unreal Engine 
 - Top-down RPG mechanics
 - Built with Unreal Engine 5
 
-## Getting Started
+## Play the Prototype!
+You can download and play the latest packaged build for Windows directly from the **[Releases Page](https://github.com/ermerp/HybridRPGPrototype/releases)**.
+
+Find the latest release (e.g., `windows-build-v1.0.0`), expand the **Assets** section, download the `.zip` file, extract it, and run the executable. *(No Unreal Engine installation required to play the release build!)*
+
+### Controls
+*(Controls for build v1.0.0)*
+
+**Keyboard:**
+* **Movement:** WASD
+* **Interact:** E / Enter
+
+**Controller (Xbox Style):**
+* **Movement:** D-Pad / Left Analog Stick
+* **Interact:** A Button
+
+## Getting Started (For Developers)
 ### Prerequisites
 - Unreal Engine 5 installed ([Download Here](https://www.unrealengine.com/))
 
