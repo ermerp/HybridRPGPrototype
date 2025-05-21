@@ -3,6 +3,8 @@
 ## Description
 HybridRPGPrototype is a 2.5D pixel art RPG prototype developed in Unreal Engine 5. The project is based on the Udemy course [The Ultimate 2D Top Down Unreal Engine Course](https://www.udemy.com/course/unreal-2d-top-down/) by Cobra Code.
 
+![GameplayExample1](https://github.com/ermerp/HybridRPGPrototype/blob/main/GameplayGIFs/HybridRPGPrototypeGameplay1.gif)
+
 ## Features
 - 2.5D pixel art style
 - Top-down RPG mechanics
@@ -23,6 +25,8 @@ Find the latest release (e.g., `windows-build-v1.0.0`), expand the **Assets** se
 **Controller (Xbox Style):**
 * **Movement:** D-Pad / Left Analog Stick
 * **Interact:** A Button
+
+![GameplayExample2](https://github.com/ermerp/HybridRPGPrototype/blob/main/GameplayGIFs/HybridRPGPrototypeGameplay2.gif)
 
 ## Getting Started (For Developers)
 ### Prerequisites
